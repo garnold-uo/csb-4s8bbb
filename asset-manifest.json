@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://garnold-uo.github.io/csb-4s8bbb/static/css/main.d0464c96.chunk.css",
+    "main.js": "https://garnold-uo.github.io/csb-4s8bbb/static/js/main.eb058562.chunk.js",
+    "main.js.map": "https://garnold-uo.github.io/csb-4s8bbb/static/js/main.eb058562.chunk.js.map",
+    "runtime-main.js": "https://garnold-uo.github.io/csb-4s8bbb/static/js/runtime-main.b4a3d698.js",
+    "runtime-main.js.map": "https://garnold-uo.github.io/csb-4s8bbb/static/js/runtime-main.b4a3d698.js.map",
+    "static/js/2.bee48e28.chunk.js": "https://garnold-uo.github.io/csb-4s8bbb/static/js/2.bee48e28.chunk.js",
+    "static/js/2.bee48e28.chunk.js.map": "https://garnold-uo.github.io/csb-4s8bbb/static/js/2.bee48e28.chunk.js.map",
+    "index.html": "https://garnold-uo.github.io/csb-4s8bbb/index.html",
+    "static/css/main.d0464c96.chunk.css.map": "https://garnold-uo.github.io/csb-4s8bbb/static/css/main.d0464c96.chunk.css.map",
+    "static/js/2.bee48e28.chunk.js.LICENSE.txt": "https://garnold-uo.github.io/csb-4s8bbb/static/js/2.bee48e28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4a3d698.js",
+    "static/js/2.bee48e28.chunk.js",
+    "static/css/main.d0464c96.chunk.css",
+    "static/js/main.eb058562.chunk.js"
+  ]
+}
